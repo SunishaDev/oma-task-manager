@@ -42,7 +42,7 @@
             </table>
         <?php } else { ?>
             </br>
-                <div class="container text-center">
+                <div class=" text-center">
                     <div class="row">
                         <div class="col-md-12">
                             <h4>No projects found.</h4>

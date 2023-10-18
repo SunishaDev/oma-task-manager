@@ -40,3 +40,6 @@ ERROR - 2023-10-18 07:03:13 --> 404 Page Not Found: Assets/js
 ERROR - 2023-10-18 07:03:32 --> 404 Page Not Found: Assets/js
 ERROR - 2023-10-18 07:03:32 --> 404 Page Not Found: Assets/css
 ERROR - 2023-10-18 07:36:03 --> Severity: error --> Exception: syntax error, unexpected token "else" C:\xampp\htdocs\oma-task-manager\application\views\tasks.php 73
+ERROR - 2023-10-18 08:08:58 --> 404 Page Not Found: Home/check_duplicate_email
+ERROR - 2023-10-18 08:19:40 --> 404 Page Not Found: Home/check_duplicate_email
+ERROR - 2023-10-18 08:23:11 --> 404 Page Not Found: Home/check_duplicate_email
